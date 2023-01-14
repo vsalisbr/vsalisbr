@@ -9,9 +9,3 @@
 
 
 * ✉️ Você pode entrar em contato comigo pelo e-mail: [vsalis@live.com](mailto:vsalis@live.com)
-  
-<br>  
-<br>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsalisbr&layout=compact&langs_count=7&theme=dark"/>
-</div>
